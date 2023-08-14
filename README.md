@@ -13,6 +13,7 @@ Es un convertidor de divisas y de temperatura
 - java 8
 
 ## 🧑Autores
+Yonathan Leonardo Perez Fonseca
 https://github.com/Yonathan775
 
 
